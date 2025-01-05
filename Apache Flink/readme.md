@@ -20,6 +20,12 @@ Directory: /src/job
 ## Aggregate
 - IP and Host
 
+## Environment Variables
+- KAFKA environment variables: TRAFFIC SECRET, TRAFFIC KEY
+- POSTGRES environment variables: URL, USER, PASSWORD, DB
+- JDBC: URL
+- IP LOCATION: CODING KEY
+  
 ## Build Docker Containers
 - Postgress Docker Container: docker compose up -d
 - Apache Flink Docker Container: docker compose --env-file flink-env.env up --build --remove-orphans -d
