@@ -15,6 +15,6 @@
 - week 6 - Data Pipeline Maintenance
 
 ### Homework
- - All homework assignments were submitted.  Grading was performed via LLM.
+ - All homework assignments were submitted for review.  Grading was performed via LLM.
 
 
