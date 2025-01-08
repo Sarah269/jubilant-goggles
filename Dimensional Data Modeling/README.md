@@ -1,4 +1,10 @@
-<b>Dimensional Data Modeling</b>
+# Dimensional Data Modeling
+
+## Tools:
+- Docker Desktop
+- Postgres
+
+## Curriculum
 - Dimensional Data Modeling Day 1 Lecture
 - Dimensional Data Modeling Day 1 Lab
 - Dimensional Data Modeling Day 2 Lecture
