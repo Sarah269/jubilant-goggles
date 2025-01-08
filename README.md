@@ -14,4 +14,4 @@
 
 - week 6 - Data Pipeline Maintenance
 
-- week 6 - Data Impact Training
+
