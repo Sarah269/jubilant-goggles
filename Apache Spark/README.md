@@ -14,4 +14,7 @@
 - Apache Spark Day 2 Lab
 - Apache Spark Day 3 Lecture
 - Apache Spark Day 3 Lab
+- Data Quality Patterns Day 1 Lecture
+- Data Quality Patterns Day 1 Lab
+- Data Quality Patterns Day 2 Lecture
 - Apache Spark Homework
