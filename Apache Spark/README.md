@@ -3,7 +3,8 @@
 ## Tools:
 - Docker Desktop
 - Apache Spark
-- Python
+- Pytest
+- Pyspark
 - Jupyter Notebook
 
 ## Curriculum:
