@@ -1,5 +1,10 @@
 # Fact Data Modeling
 
+## Tools:
+- Docker Desktop
+- Postgres
+
+## Curriculum
 - Fact Data Modeling Day 1 Lecture
 - Fact Data Modeling Day 1 Lab
 - Fact Data Modeling Day 2 Lecture
