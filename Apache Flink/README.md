@@ -5,12 +5,13 @@
 - Postgres
 - Apache Flink
 - Apache Kafka
+- pyflink
 - IP Location
 
 ## Curriculum
-- Streaming Pipeline Day 1 Lecture
-- Streaming Pipeline Day 1 Lab
-- Streaming Pipeline Day 2 Lecture
-- Streaming Pipeline Day 2 Lab
+- Streaming Pipelines Day 1 Lecture
+- Streaming Pipelines Day 1 Lab
+- Streaming Pipelines Day 2 Lecture
+- Streaming Pipelines Day 2 Lab
 - Flink Setup
-- Homework
+- Streaming Pipelines Homework
