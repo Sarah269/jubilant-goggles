@@ -5,6 +5,7 @@
 - Postgres
 - Apache Flink
 - Apache Kafka
+- IP Location
 
 ## Curriculum
 - Streaming Pipeline Day 1 Lecture
