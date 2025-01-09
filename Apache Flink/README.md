@@ -1,4 +1,6 @@
-# Real-time Pipelines with Flink and Kafka
+#  DataExpert.io Data Engineering Bootcamp
+
+## Real-time Pipelines with Flink and Kafka
 
 ## Tools:
 - Docker Desktop
