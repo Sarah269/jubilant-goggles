@@ -1,4 +1,6 @@
-# Applying Analytical Patterns
+#  DataExpert.io Data Engineering Bootcamp
+
+## Applying Analytical Patterns
 
 ## Tools
 - Docker Desktop
