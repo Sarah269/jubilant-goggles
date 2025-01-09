@@ -1,4 +1,6 @@
-# DataExpert.io Data Engineering Bootcamp Fact Data Modeling
+# DataExpert.io Data Engineering Bootcamp 
+
+## Fact Data Modeling
 
 ## Tools:
 - Docker Desktop
