@@ -5,6 +5,7 @@
 ## Tools:
 - Docker Desktop
 - Apache Spark
+- Apache Iceberg
 - Pytest
 - Pyspark
 - Jupyter Notebook
