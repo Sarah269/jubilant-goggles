@@ -16,4 +16,4 @@
 - Streaming Pipelines Day 2 Lecture
 - Streaming Pipelines Day 2 Lab
 - Flink Setup
-- Streaming Pipelines Homework
+- Streaming Pipelines Homework.  Grade: B
