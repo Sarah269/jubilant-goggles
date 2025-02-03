@@ -13,4 +13,4 @@
 - Fact Data Modeling Data 2 Lab
 - Fact Data Modeling Day 3 Lecture
 - Fact Data Modeling Day 3 Lab
-- Fact Data Modeling Homework
+- Fact Data Modeling Homework. Grade: A
