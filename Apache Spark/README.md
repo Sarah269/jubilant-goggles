@@ -20,4 +20,5 @@
 - Data Quality Patterns Day 1 Lecture
 - Data Quality Patterns Day 1 Lab
 - Data Quality Patterns Day 2 Lecture
-- Apache Spark Homework
+- Apache Spark Homework. Grade: A
+- Apache Spark Data Quality Homework. Grade: A
